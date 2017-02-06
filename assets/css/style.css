@@ -5,4 +5,9 @@ body {
 
 #projects .card {
   color: black;
+  height: 350px;
+}
+
+#projects .card-content {
+  background-color: #cfd8dc;
 }
