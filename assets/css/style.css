@@ -11,3 +11,8 @@ body {
 #projects .card {
   background-color: #cfd8dc;
 }
+
+.card:hover {
+    opacity: 0.7;
+};
+
