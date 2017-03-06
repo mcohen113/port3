@@ -2,6 +2,10 @@ body {
   font-family: 'Architects Daughter', cursive;
 }
 
+#main-section {
+  color:  #F0FFFF;
+}
+
 
 #projects .card {
   color: black;
