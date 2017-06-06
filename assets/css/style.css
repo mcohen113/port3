@@ -7,6 +7,11 @@ body {
   background-color: #f2ead7
 }
 
+#projects {
+  font-color: black;
+  background-color: #f2ead7
+}
+
 
 #projects .card {
   color: black;
@@ -30,3 +35,7 @@ body {
   opacity: 0.7;
 }
 
+.divider {
+  color: black;
+  border: 4px double #000;
+}
